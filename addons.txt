@@ -1,4 +1,4 @@
-# place all your addons here, just links to the downloadable file
+# place all your addons here, just links
 # hash tag is a comment, something human readable for you
 # the script will ignore anything that starts with it
 
