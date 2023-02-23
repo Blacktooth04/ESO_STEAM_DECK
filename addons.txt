@@ -1,0 +1,29 @@
+# place all your addons here, just links to the downloadable file
+# hash tag is a comment, something human readable for you
+# the script will ignore anything that starts with it
+
+# Skyshards
+https://www.esoui.com/downloads/download128-SkyShards
+
+# Lorebooks
+https://www.esoui.com/downloads/download288-LoreBooks
+
+# Combat Metrics
+https://www.esoui.com/downloads/download1360-CombatMetrics
+
+# Raid Notifier
+https://www.esoui.com/downloads/download1355-RaidNotifierUpdated
+
+# Libs
+https://www.esoui.com/downloads/download185-CustomCompassPins
+https://www.esoui.com/downloads/download7-LibAddonMenu
+https://www.esoui.com/downloads/download2382-LibChatMessage
+https://www.esoui.com/downloads/download2528-LibCombat
+https://www.esoui.com/downloads/download1146-LibCustomMenu
+https://www.esoui.com/downloads/download2275-LibDebugLogger
+https://www.esoui.com/downloads/download601-LibGPS
+https://www.esoui.com/downloads/download1337-LibGroupSocket
+https://www.esoui.com/downloads/download3353-LibMapData
+https://www.esoui.com/downloads/download1302-LibMapPing
+https://www.esoui.com/downloads/download563-LibMapPins
+
