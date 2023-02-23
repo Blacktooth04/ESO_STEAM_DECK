@@ -3,27 +3,58 @@
 # the script will ignore anything that starts with it
 
 # Skyshards
-https://www.esoui.com/downloads/download128-SkyShards
+https://www.esoui.com/downloads/info128-SkyShards.html
 
 # Lorebooks
-https://www.esoui.com/downloads/download288-LoreBooks
+https://www.esoui.com/downloads/info288-LoreBooks 
 
 # Combat Metrics
-https://www.esoui.com/downloads/download1360-CombatMetrics
+https://www.esoui.com/downloads/info1360-CombatMetrics 
 
 # Raid Notifier
-https://www.esoui.com/downloads/download1355-RaidNotifierUpdated
+https://www.esoui.com/downloads/info1355-RaidNotifierUpdated 
+
+# Codes Combat Alerts
+https://www.esoui.com/downloads/info1855-CodesCombatAlerts.html
+
+# Wizards Wardrobe
+https://www.esoui.com/downloads/info3170-WizardsWardrobe.html
+
+# Hodors
+https://www.esoui.com/downloads/info2311-HodorReflexes-DPSUltimateShare.html
+
+# Pithka
+https://www.esoui.com/downloads/info2892-PithkasAchievementTracker.html
+
+# Map Pins
+https://www.esoui.com/downloads/info1881-MapPins.html
+
+# QCell Rockgrove
+https://www.esoui.com/downloads/info3060-QcellsRockgroveHelper.html
+
+# QCell Dreadsail Reef
+https://www.esoui.com/downloads/info3354-QcellsDreadsailReefHelper.html
+
+# Ody Support Icon
+https://www.esoui.com/downloads/info2834-OdySupportIcons-GroupRoleIconsMore.html
+
+# Kyzderps
+https://www.esoui.com/downloads/info2427-KyzderpsDerps.html
+
+# Harvest Map
+https://www.esoui.com/downloads/info57-HarvestMap.html
 
 # Libs
-https://www.esoui.com/downloads/download185-CustomCompassPins
-https://www.esoui.com/downloads/download7-LibAddonMenu
-https://www.esoui.com/downloads/download2382-LibChatMessage
-https://www.esoui.com/downloads/download2528-LibCombat
-https://www.esoui.com/downloads/download1146-LibCustomMenu
-https://www.esoui.com/downloads/download2275-LibDebugLogger
-https://www.esoui.com/downloads/download601-LibGPS
-https://www.esoui.com/downloads/download1337-LibGroupSocket
-https://www.esoui.com/downloads/download3353-LibMapData
-https://www.esoui.com/downloads/download1302-LibMapPing
-https://www.esoui.com/downloads/download563-LibMapPins
-
+https://www.esoui.com/downloads/info185-CustomCompassPins.html 
+https://www.esoui.com/downloads/info7-LibAddonMenu
+https://www.esoui.com/downloads/info2382-LibChatMessage
+https://www.esoui.com/downloads/info2528-LibCombat
+https://www.esoui.com/downloads/info1146-LibCustomMenu 
+https://www.esoui.com/downloads/info2275-LibDebugLogger
+https://www.esoui.com/downloads/info601-LibGPS 
+https://www.esoui.com/downloads/info1337-LibGroupSocket 
+https://www.esoui.com/downloads/info2118-LibMainMenu-2.0.html
+https://www.esoui.com/downloads/info3353-LibMapData 
+https://www.esoui.com/downloads/info1302-LibMapPing 
+https://www.esoui.com/downloads/info563-LibMapPins 
+https://www.esoui.com/downloads/info3297-LibDataShare.html
