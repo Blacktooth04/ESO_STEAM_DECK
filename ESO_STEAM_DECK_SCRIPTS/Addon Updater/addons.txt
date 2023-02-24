@@ -44,17 +44,28 @@ https://www.esoui.com/downloads/info2427-KyzderpsDerps.html
 # Harvest Map
 https://www.esoui.com/downloads/info57-HarvestMap.html
 
+# Dolgubon Lazy Writ Craft
+https://www.esoui.com/downloads/info1346-DolgubonsLazyWritCrafter.html
+
+# Daily Alchemy
+https://www.esoui.com/downloads/info1899-DailyAlchemy.html
+
+# Daily Provisioning
+https://www.esoui.com/downloads/info1901-DailyProvisioning.html
+
 # Libs
 https://www.esoui.com/downloads/info185-CustomCompassPins.html 
 https://www.esoui.com/downloads/info7-LibAddonMenu
 https://www.esoui.com/downloads/info2382-LibChatMessage
 https://www.esoui.com/downloads/info2528-LibCombat
 https://www.esoui.com/downloads/info1146-LibCustomMenu 
+https://www.esoui.com/downloads/info3297-LibDataShare.html
 https://www.esoui.com/downloads/info2275-LibDebugLogger
 https://www.esoui.com/downloads/info601-LibGPS 
 https://www.esoui.com/downloads/info1337-LibGroupSocket 
+https://www.esoui.com/downloads/info1594-LibLazyCrafting.html
 https://www.esoui.com/downloads/info2118-LibMainMenu-2.0.html
 https://www.esoui.com/downloads/info3353-LibMapData 
 https://www.esoui.com/downloads/info1302-LibMapPing 
 https://www.esoui.com/downloads/info563-LibMapPins 
-https://www.esoui.com/downloads/info3297-LibDataShare.html
+https://www.esoui.com/downloads/info2542-LibMarify.html
