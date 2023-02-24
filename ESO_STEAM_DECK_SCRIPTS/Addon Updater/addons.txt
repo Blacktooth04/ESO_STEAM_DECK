@@ -2,11 +2,8 @@
 # hash tag is a comment, something human readable for you
 # the script will ignore anything that starts with it
 
-# Skyshards
-https://www.esoui.com/downloads/info128-SkyShards.html
-
-# Lorebooks
-https://www.esoui.com/downloads/info288-LoreBooks 
+# Action Duration Reminder
+https://www.esoui.com/downloads/info1536-ActionDurationReminder.html
 
 # Combat Metrics
 https://www.esoui.com/downloads/info1360-CombatMetrics 
