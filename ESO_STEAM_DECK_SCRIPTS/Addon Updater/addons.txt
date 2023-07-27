@@ -21,6 +21,7 @@ https://www.esoui.com/downloads/info1899-DailyAlchemy.html
 https://www.esoui.com/downloads/info1901-DailyProvisioning.html
 
 # Dolgubon Lazy Writ Craft
+
 https://www.esoui.com/downloads/info1346-DolgubonsLazyWritCrafter.html
 
 # Harvest Map
@@ -73,11 +74,14 @@ https://www.esoui.com/downloads/info2528-LibCombat
 https://www.esoui.com/downloads/info1146-LibCustomMenu 
 https://www.esoui.com/downloads/info3297-LibDataShare.html
 https://www.esoui.com/downloads/info2275-LibDebugLogger
+https://www.esoui.com/downloads/info2807-LibDelayedHandler.html
 https://www.esoui.com/downloads/info601-LibGPS 
 https://www.esoui.com/downloads/info1337-LibGroupSocket 
+https://www.esoui.com/downloads/info3156-LibHandler.html
 https://www.esoui.com/downloads/info1594-LibLazyCrafting.html
 https://www.esoui.com/downloads/info2118-LibMainMenu-2.0.html
 https://www.esoui.com/downloads/info3353-LibMapData 
 https://www.esoui.com/downloads/info1302-LibMapPing 
 https://www.esoui.com/downloads/info563-LibMapPins 
 https://www.esoui.com/downloads/info2542-LibMarify.html
+https://www.esoui.com/downloads/info2815-LibUnitTracker.html
