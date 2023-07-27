@@ -29,6 +29,15 @@ https://www.esoui.com/downloads/info57-HarvestMap.html
 # Hodors
 https://www.esoui.com/downloads/info2311-HodorReflexes-DPSUltimateShare.html
 
+# How to KA
+https://www.esoui.com/downloads/info3442-BSCs-HowToKynesAegis.html
+
+# How to CR
+https://www.esoui.com/downloads/info3497-HowToCloudrest.html
+
+# How to SS
+https://www.esoui.com/downloads/info2430-HowToSunspire.html
+
 # Kyzderps
 https://www.esoui.com/downloads/info2427-KyzderpsDerps.html
 
@@ -49,6 +58,9 @@ https://www.esoui.com/downloads/info3354-QcellsDreadsailReefHelper.html
 
 # Raid Notifier
 https://www.esoui.com/downloads/info1355-RaidNotifierUpdated 
+
+# Sanity's Edge Helper
+https://www.esoui.com/downloads/info3657-SanitysEdgeHelper.html
 
 # Wizards Wardrobe
 https://www.esoui.com/downloads/info3170-WizardsWardrobe.html
